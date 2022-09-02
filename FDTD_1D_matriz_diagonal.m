@@ -1,6 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %                       FDTD - 1D - TNM-5845                            %
 % Exercício: Escrever um código para a propagação de um pulso Gaussiano %
+%            utilizando a matriz diadonal.                              %
+%                                                                       %
 % Davi Pontes Nacaratti                                                 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
